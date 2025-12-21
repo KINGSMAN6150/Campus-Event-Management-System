@@ -1,4 +1,4 @@
-# Campus-Event-Management-System
+
 # Campus Event Management System
 
 A full-stack web application designed to manage campus events efficiently.  
